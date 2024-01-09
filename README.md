@@ -10,7 +10,7 @@ Huffman coding provides an efficient, unambiguous code by analyzing the frequenc
 ## How To Use 
 1. Download the repository files (project) from the download section.
 2. Import it in any Java IDE.
-3. Run the application from <a href="Huffman Coding- Decoding/Main.java">Main.java</a>
+3. Run the application from <a href="Huffman Coding- Decoding/Huffman-Coding-main/Main.java">Main.java</a>
 
 
 ## Requirements
